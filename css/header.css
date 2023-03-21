@@ -23,3 +23,17 @@ h6.text-white{
 .btn.btn-brand{
     font-size: 150%;
 }
+.carousel-control-prev{
+    background-color: rgba(0, 0, 0, 0.562);
+    width: 80px;
+    height: 80px;
+    margin: auto;
+
+}
+.carousel-control-next{
+
+    background-color:rgba(0, 0, 0, 0.562);
+    width: 80px;
+    height: 80px;
+    margin: auto;
+    } 
