@@ -1,0 +1,25 @@
+.slide-1{
+    background: linear-gradient(rgba(0, 0, 0, 0.567) , rgba(0, 0, 0, 0.562)),url(../images/Thieb_beef.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.slide-2{
+    background: linear-gradient(rgba(0, 0, 0, 0.567) , rgba(0, 0, 0, 0.562)),url(../images/Ndole.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#header{
+    height: 50vh;
+}
+.bg-cover{
+    background-position: center;
+    
+}
+h6.text-white{
+    font-size: 150%;
+    
+
+}
+.btn.btn-brand{
+    font-size: 150%;
+}

@@ -1,0 +1,37 @@
+
+ @import url('https://fonts.googleapis.com/css2?family=Italianno&family=Roboto:wght@300&display=swap');
+
+  
+  body {
+    
+    font-family: 'Roboto', sans-serif;
+ 
+    
+    line-height: 1.7;
+  }
+  .bg-black{
+    background-color: #000000;
+}
+
+.bg-blue{
+    background-color: #14457b9d;
+}
+
+.bg-accent{
+    background-color: #b36f03;
+}
+
+.bg-lightGray{
+    background-color: #f8f9fa;
+}
+
+.bg-white{
+    background-color: #f1faee;
+}
+
+/* Stylin for pictures */
+{
+    padding: 0;
+    margin: 0;
+    border: 0;
+}
