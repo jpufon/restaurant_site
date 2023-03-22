@@ -1,12 +1,26 @@
 /* the section about page */
 section{
-    height: 50px;
-    width: 50px;
-    padding: 100px 0 100px 100px
+   
+    height: 300px;
+    
+    padding: 100px 0 100px 10px;
+    
+
 }
 img#about_2{
     width: 500px;;
     height:500px;
     border-radius: 100px;
+   
 
+    
 }
+h1{
+    font-size: 400%;
+    font-weight: 600;
+}
+p{
+    font-size: 150%;
+ font-weight: 300;
+}
+
